@@ -1,0 +1,6 @@
+@StonePaperCScissor_HostAddress = http://localhost:5126
+
+GET {{StonePaperCScissor_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
